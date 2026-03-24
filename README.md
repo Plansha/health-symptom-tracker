@@ -36,3 +36,4 @@ Streamlit | Pandas | Plotly | SQLite
 ![Export](screenshots/export.png)
 
 
+<img width="1906" height="825" alt="homepage" src="https://github.com/user-attachments/assets/567985dd-2ad7-4c3c-bcc9-2b7951277488" />
