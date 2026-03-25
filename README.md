@@ -30,7 +30,7 @@ Tech
 Streamlit | Pandas | Plotly | SQLite
 
 ## 📱 Demo Screenshots
-![Homepage]homepage.png)
+![Homepage](homepage.png)
 ![Log](log.png)
 ![Charts](charts.png)
 ![Export](export.png)
