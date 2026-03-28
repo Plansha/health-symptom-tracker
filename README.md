@@ -35,4 +35,7 @@ Streamlit | Pandas | Plotly | SQLite
 ![Charts](charts.png)
 ![Export](export.png)
 
+<img width="1911" height="844" alt="Screenshot 2026-03-24 221650" src="https://github.com/user-attachments/assets/344089ae-11e9-4367-b322-ef3c2349c105" />
+
+
 
